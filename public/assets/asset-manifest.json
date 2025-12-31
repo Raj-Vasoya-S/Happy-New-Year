@@ -1,0 +1,44 @@
+{
+  "videos": {
+    "clip1": "/assets/videos/clip-1.mp4",
+    "clip2": "/assets/videos/clip-2.mp4",
+    "clip3": "/assets/videos/clip-3.mp4",
+    "clip4": "/assets/videos/clip-4.mp4",
+    "loading": "/assets/videos/loading-bar.mp4"
+  },
+  "images": {
+    "blush-gif": "/assets/images/gifs/blush-gif.gif",
+    "cat-mouth-open-close-gif": "/assets/images/gifs/cat-mouth-open-close-gif.gif",
+    "ilu-v1-gif": "/assets/images/gifs/ilu-v1-gif.gif",
+    "ilu-v2-gif": "/assets/images/gifs/ilu-v2-gif.gif",
+    "kiss-gif": "/assets/images/gifs/kiss-gif.gif"
+  },
+  "audio": {
+    "track1": "/assets/audio/song-1.mp3",
+    "track2": "/assets/audio/song-2.mp3",
+    "track3": "/assets/audio/song-3.mp3"
+  },
+  "greeting_cards": [
+    "/assets/images/cards/theme-1.jpeg",
+    "/assets/images/cards/theme-2.jpeg",
+    "/assets/images/cards/theme-3.jpeg",
+    "/assets/images/cards/theme-4.jpeg",
+    "/assets/images/cards/theme-5.jpeg",
+    "/assets/images/cards/theme-6.jpeg",
+    "/assets/images/cards/theme-7.jpeg",
+    "/assets/images/cards/theme-8.jpeg",
+    "/assets/images/cards/theme-9.jpeg",
+    "/assets/images/cards/theme-10.jpeg",
+    "/assets/images/cards/theme-11.jpeg",
+    "/assets/images/cards/theme-12.jpeg",
+    "/assets/images/cards/theme-13.jpeg"
+  ],
+  "flip_cards": [
+    "/assets/images/animals/animal-1.jpeg",
+    "/assets/images/animals/animal-2.jpeg",
+    "/assets/images/animals/animal-3.jpeg",
+    "/assets/images/animals/animal-4.jpeg",
+    "/assets/images/animals/animal-5.jpeg"
+  ],
+  "misc": {}
+}
