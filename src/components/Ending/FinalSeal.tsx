@@ -54,7 +54,11 @@ const FinalSeal: React.FC<{ data: CardData }> = () => {
                     {/* Cat visual */}
                     <div className="flex justify-center mb-4">
                         <div className="w-24 h-24 bg-white/80 backdrop-blur-sm rounded-2xl p-3 shadow-md border border-gray-200/50">
-                            <img src={manifest.images['cat-mouth-open-close-gif']} className="w-full h-full object-contain" alt="icon" />
+                            <img
+                                src={`${import.meta.env.BASE_URL}${manifest.images['cat-mouth-open-close-gif'].startsWith('/') ? manifest.images['cat-mouth-open-close-gif'].slice(1) : manifest.images['cat-mouth-open-close-gif']}`}
+                                className="w-full h-full object-contain"
+                                alt="icon"
+                            />
                         </div>
                     </div>
 
